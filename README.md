@@ -1,48 +1,16 @@
-Blinkit Sales & Performance Dashboard
+**Power BI Data Analytics Portfolio | Rutuja More**
 
-**Project Overview**
-This Power BI dashboard analyzes sales, product categories, outlet performance, and customer ratings for Blinkit – India’s last-minute grocery app. The dashboard provides actionable insights for business stakeholders to make informed decisions about sales trends, outlet performance, and product optimization.
+**Analyst Profile**: My focus is bridging raw data to direct business action. This portfolio demonstrates end-to-end data pipelines: from complex Power Query transformations and robust data modeling to implementing performance-critical DAX and delivering targeted, visualization-based insights.
 
-**Interactive features**
-Filter panel by Outlet Location, Outlet Size, and Item Type
-Dynamic KPIs for Total Sales, Average Sales, Number of Items, and Average Rating
-Interactive charts and visuals with drill-down capabilities
+**Technical Stack**
+Data Shaping: Power Query (M Language) for data cleansing, custom columns, and complex table joins/unpivots.
+Modeling & Logic: DAX for advanced measures, calculated tables, and establishing a canonical Star Schema.
+Databases: SQL for querying and manipulating relational data; experience with relational database concepts.
+Visualization: Power BI Desktop, emphasis on clarity, mobile optimization, and user-driven filtering logic.
 
-**Project Files**
-PDF report → Detailed project explanation
-Video walkthrough
-Screenshots → Visual overview of dashboards and KPIs
+**Project Index**
+Each project folder below contains a detailed README.md (project narrative), high-resolution dashboard screenshots, and the native .pbix file.
 
-**Tools & Techniques Used**
-Power BI Desktop – For dashboard creation
-Power Query – For data cleaning and transformation
-DAX – For calculated measures and KPIs
-Data Visualization – KPI cards, bar charts, line charts, pie charts, and interactive filters
+All project files (.pbix, screenshots, and a detailed technical narrative) are housed within their respective folders.
 
-**Dashboard Highlights**
-Key Metrics
-Total Sales: $1.2M
-Average Sales per Item: $141
-Number of Items: 8,523
-Average Rating: 3.9
-
-**Insights by Category**
-Item Type Contribution: Fruits & Vegetables lead with $178K, followed by Snack Foods ($175K)
-Fat Content Analysis: Shows low-fat vs regular sales by product category
-Outlet Performance: Tier 3 outlets generate the highest revenue ($0.31M)
-
-**Time Analysis**
-Outlet Establishment vs Sales Trend: Sales peak observed in 2018 ($205K)
-Outlet Size Analysis: Medium outlets lead in sales contribution ($507.9K)
-
-**Key Insights**
-Fruits & Vegetables contribute the highest sales → focus on marketing and stock optimization.
-Tier 3 outlets are the most profitable → expansion strategies can prioritize high-performing outlets.
-Sales peak in 2018 → plan seasonal promotions and campaigns based on historical trends.
-Medium-sized outlets outperform small outlets in total sales → allocate inventory and resources accordingly.
-
-**How to Use This Project**
-Open the .pbix file in Power BI Desktop.
-Use the filter panel to slice data by outlet location, size, and item type.
-Interact with charts and KPI cards to explore trends and performance insights.
-Refer to the video walkthrough for a complete guide to dashboard features.
+I am actively building out Project 02 and 03. For a detailed walk-through of the Power Query steps and the DAX engine in any project, please reach out directly - I am happy to dive deep into the technical execution.
